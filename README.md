@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/laggerk24/leetcode/tree/master/0890-lemonade-change) |
 | [2379-maximum-total-importance-of-roads](https://github.com/laggerk24/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/laggerk24/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+## Array
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/laggerk24/leetcode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
