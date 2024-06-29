@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/laggerk24/leetcode/tree/master/0118-pascals-triangle) |
 | [0890-lemonade-change](https://github.com/laggerk24/leetcode/tree/master/0890-lemonade-change) |
 | [2716-prime-subtraction-operation](https://github.com/laggerk24/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Math
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/laggerk24/leetcode/tree/master/0118-pascals-triangle) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/laggerk24/leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Counting
 |  |
