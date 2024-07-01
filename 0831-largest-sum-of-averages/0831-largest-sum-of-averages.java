@@ -13,7 +13,7 @@ class Solution {
         }
 
         for (int i = 1; i < n; i++) {
-            for (int j = 1; j <= p; j++) {
+            for (int j = 1; j <= Math.min(i+1,p); j++) {
                 double sum = 0;
                 int count = 1;
                 double val = -1;
