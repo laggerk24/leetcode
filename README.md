@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/laggerk24/leetcode/tree/master/0118-pascals-triangle) |
+| [0221-maximal-square](https://github.com/laggerk24/leetcode/tree/master/0221-maximal-square) |
 | [0831-largest-sum-of-averages](https://github.com/laggerk24/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0890-lemonade-change](https://github.com/laggerk24/leetcode/tree/master/0890-lemonade-change) |
 | [1121-partition-array-for-maximum-sum](https://github.com/laggerk24/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/laggerk24/leetcode/tree/master/0118-pascals-triangle) |
+| [0221-maximal-square](https://github.com/laggerk24/leetcode/tree/master/0221-maximal-square) |
 | [0831-largest-sum-of-averages](https://github.com/laggerk24/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [1121-partition-array-for-maximum-sum](https://github.com/laggerk24/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/laggerk24/leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/laggerk24/leetcode/tree/master/0221-maximal-square) |
 | [2043-cyclically-rotating-a-grid](https://github.com/laggerk24/leetcode/tree/master/2043-cyclically-rotating-a-grid) |
 ## Simulation
 |  |
