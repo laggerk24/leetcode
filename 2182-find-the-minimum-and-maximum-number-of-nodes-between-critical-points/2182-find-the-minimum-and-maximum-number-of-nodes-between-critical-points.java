@@ -9,21 +9,31 @@
  * }
  */
 class Solution {
-public int[] nodesBetweenCriticalPoints(ListNode h) {
-    int first = Integer.MAX_VALUE, last = 0, prev_val = h.val, min_d = Integer.MAX_VALUE;
-    for (int i = 0; h.next != null; ++i) {
-        if ((prev_val < h.val && h.val > h.next.val) || 
-            (prev_val > h.val && h.val < h.next.val)) {
-            if (last != 0)
-                min_d = Math.min(min_d, i - last);
-            first = Math.min(first, i);
-            last = i;
+    public int[] nodesBetweenCriticalPoints(ListNode head) {
+        ListNode prevNode = head;
+        ListNode currNode = head.next;
+        ListNode nextNode = head.next.next;
+        int[] ans = new int[] {Integer.MAX_VALUE,Integer.MIN_VALUE};
+        int count = 0;
+        int prevCriticalPoint = -1;
+        int firstCriticalPoint = -1;
+        while(nextNode != null){
+            if((currNode.val > prevNode.val && currNode.val> nextNode.val) || (currNode.val < prevNode.val && currNode.val<nextNode.val)){
+                if(prevCriticalPoint == -1){
+                    prevCriticalPoint = count;
+                    firstCriticalPoint = count;
+                }
+                else {
+                    ans[0] = Math.min(ans[0],count-prevCriticalPoint);
+                    ans[1] = Math.max(ans[1],count-firstCriticalPoint);
+                }
+                prevCriticalPoint = count;
+            }
+            prevNode = prevNode.next;
+            currNode = currNode.next;
+            nextNode = nextNode.next;
+            count++;
         }
-        prev_val = h.val;
-        h = h.next;
-    }        
-    if (min_d == Integer.MAX_VALUE)
-        return new int[] {-1, -1};
-    return new int[] {min_d, last - first};
-}
+        return ans[0] == Integer.MAX_VALUE ? new int[]{-1,-1} : ans ;
+    }
 }
