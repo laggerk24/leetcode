@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/laggerk24/leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/laggerk24/leetcode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/laggerk24/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/laggerk24/leetcode/tree/master/0221-maximal-square) |
 | [0831-largest-sum-of-averages](https://github.com/laggerk24/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0890-lemonade-change](https://github.com/laggerk24/leetcode/tree/master/0890-lemonade-change) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/laggerk24/leetcode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/laggerk24/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/laggerk24/leetcode/tree/master/0221-maximal-square) |
 | [0831-largest-sum-of-averages](https://github.com/laggerk24/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [1121-partition-array-for-maximum-sum](https://github.com/laggerk24/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
