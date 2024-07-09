@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/laggerk24/leetcode/tree/master/0890-lemonade-change) |
 | [1121-partition-array-for-maximum-sum](https://github.com/laggerk24/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/laggerk24/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1803-average-waiting-time](https://github.com/laggerk24/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/laggerk24/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/laggerk24/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2043-cyclically-rotating-a-grid](https://github.com/laggerk24/leetcode/tree/master/2043-cyclically-rotating-a-grid) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1803-average-waiting-time](https://github.com/laggerk24/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/laggerk24/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2043-cyclically-rotating-a-grid](https://github.com/laggerk24/leetcode/tree/master/2043-cyclically-rotating-a-grid) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/laggerk24/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
