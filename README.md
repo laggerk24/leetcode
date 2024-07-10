@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/laggerk24/leetcode/tree/master/0874-backspace-string-compare) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/laggerk24/leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/laggerk24/leetcode/tree/master/0874-backspace-string-compare) |
 | [1803-average-waiting-time](https://github.com/laggerk24/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/laggerk24/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2043-cyclically-rotating-a-grid](https://github.com/laggerk24/leetcode/tree/master/2043-cyclically-rotating-a-grid) |
@@ -112,8 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/laggerk24/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0874-backspace-string-compare](https://github.com/laggerk24/leetcode/tree/master/0874-backspace-string-compare) |
 ## Queue
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/laggerk24/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/laggerk24/leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
