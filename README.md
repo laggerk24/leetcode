@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/laggerk24/leetcode/tree/master/0048-rotate-image) |
+| [0223-rectangle-area](https://github.com/laggerk24/leetcode/tree/master/0223-rectangle-area) |
 | [0628-maximum-product-of-three-numbers](https://github.com/laggerk24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-rectangle-overlap](https://github.com/laggerk24/leetcode/tree/master/0866-rectangle-overlap) |
 | [0903-implement-rand10-using-rand7](https://github.com/laggerk24/leetcode/tree/master/0903-implement-rand10-using-rand7) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/laggerk24/leetcode/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/laggerk24/leetcode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
