@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/laggerk24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/laggerk24/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/laggerk24/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/laggerk24/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-cyclically-rotating-a-grid](https://github.com/laggerk24/leetcode/tree/master/2043-cyclically-rotating-a-grid) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/laggerk24/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2716-prime-subtraction-operation](https://github.com/laggerk24/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/laggerk24/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/laggerk24/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/laggerk24/leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/laggerk24/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/laggerk24/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,4 +158,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/laggerk24/leetcode/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/laggerk24/leetcode/tree/master/0866-rectangle-overlap) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/laggerk24/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/laggerk24/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
