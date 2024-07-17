@@ -141,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/laggerk24/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/laggerk24/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/laggerk24/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/laggerk24/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/laggerk24/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/laggerk24/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/laggerk24/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/laggerk24/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -176,6 +178,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/laggerk24/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/laggerk24/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/laggerk24/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/laggerk24/leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
