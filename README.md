@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/laggerk24/leetcode/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/laggerk24/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/laggerk24/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/laggerk24/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/laggerk24/leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Dynamic Programming
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/laggerk24/leetcode/tree/master/0221-maximal-square) |
 | [0831-largest-sum-of-averages](https://github.com/laggerk24/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [1121-partition-array-for-maximum-sum](https://github.com/laggerk24/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/laggerk24/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/laggerk24/leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/laggerk24/leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Counting
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/laggerk24/leetcode/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/laggerk24/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/laggerk24/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
 | ------- |
