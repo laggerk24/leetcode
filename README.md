@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-largest-sum-of-averages](https://github.com/laggerk24/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0890-lemonade-change](https://github.com/laggerk24/leetcode/tree/master/0890-lemonade-change) |
 | [1121-partition-array-for-maximum-sum](https://github.com/laggerk24/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1196-filling-bookcase-shelves](https://github.com/laggerk24/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/laggerk24/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/laggerk24/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/laggerk24/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/laggerk24/leetcode/tree/master/0221-maximal-square) |
 | [0831-largest-sum-of-averages](https://github.com/laggerk24/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [1121-partition-array-for-maximum-sum](https://github.com/laggerk24/leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1196-filling-bookcase-shelves](https://github.com/laggerk24/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/laggerk24/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/laggerk24/leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/laggerk24/leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
