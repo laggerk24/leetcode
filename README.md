@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/laggerk24/leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/laggerk24/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/laggerk24/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/laggerk24/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/laggerk24/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/laggerk24/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/laggerk24/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/laggerk24/leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/laggerk24/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/laggerk24/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/laggerk24/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/laggerk24/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/laggerk24/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/laggerk24/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/laggerk24/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/laggerk24/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Sliding Window
 |  |
