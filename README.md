@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/laggerk24/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0890-lemonade-change](https://github.com/laggerk24/leetcode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/laggerk24/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/laggerk24/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/laggerk24/leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/laggerk24/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/laggerk24/leetcode/tree/master/0221-maximal-square) |
+| [0334-increasing-triplet-subsequence](https://github.com/laggerk24/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/laggerk24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0831-largest-sum-of-averages](https://github.com/laggerk24/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0890-lemonade-change](https://github.com/laggerk24/leetcode/tree/master/0890-lemonade-change) |
