@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/laggerk24/leetcode/tree/master/0567-permutation-in-string) |
 | [1207-delete-nodes-and-return-forest](https://github.com/laggerk24/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/laggerk24/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/laggerk24/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/laggerk24/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0567-permutation-in-string](https://github.com/laggerk24/leetcode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/laggerk24/leetcode/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/laggerk24/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/laggerk24/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/laggerk24/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/laggerk24/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0567-permutation-in-string](https://github.com/laggerk24/leetcode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/laggerk24/leetcode/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/laggerk24/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Queue
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/laggerk24/leetcode/tree/master/0567-permutation-in-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/laggerk24/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/laggerk24/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Breadth-First Search
