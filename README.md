@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/laggerk24/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0670-maximum-swap](https://github.com/laggerk24/leetcode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/laggerk24/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/laggerk24/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/laggerk24/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/laggerk24/leetcode/tree/master/0048-rotate-image) |
 | [0223-rectangle-area](https://github.com/laggerk24/leetcode/tree/master/0223-rectangle-area) |
 | [0628-maximum-product-of-three-numbers](https://github.com/laggerk24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/laggerk24/leetcode/tree/master/0670-maximum-swap) |
 | [0866-rectangle-overlap](https://github.com/laggerk24/leetcode/tree/master/0866-rectangle-overlap) |
 | [0903-implement-rand10-using-rand7](https://github.com/laggerk24/leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [1370-count-number-of-nice-subarrays](https://github.com/laggerk24/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
