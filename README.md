@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/laggerk24/leetcode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/laggerk24/leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/laggerk24/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/laggerk24/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/laggerk24/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/laggerk24/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/laggerk24/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/laggerk24/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [1197-parsing-a-boolean-expression](https://github.com/laggerk24/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/laggerk24/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/laggerk24/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/laggerk24/leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/laggerk24/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/laggerk24/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/laggerk24/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/laggerk24/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/laggerk24/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
