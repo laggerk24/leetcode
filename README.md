@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/laggerk24/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/laggerk24/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/laggerk24/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2554-minimum-total-distance-traveled](https://github.com/laggerk24/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/laggerk24/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Heap (Priority Queue)
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/laggerk24/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/laggerk24/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/laggerk24/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2554-minimum-total-distance-traveled](https://github.com/laggerk24/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2716-prime-subtraction-operation](https://github.com/laggerk24/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/laggerk24/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/laggerk24/leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/laggerk24/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/laggerk24/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/laggerk24/leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
+| [2554-minimum-total-distance-traveled](https://github.com/laggerk24/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/laggerk24/leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Counting
 |  |
