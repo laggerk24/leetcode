@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/laggerk24/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/laggerk24/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2580-circular-sentence](https://github.com/laggerk24/leetcode/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/laggerk24/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/laggerk24/leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Dynamic Programming
 |  |
