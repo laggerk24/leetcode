@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/laggerk24/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2554-minimum-total-distance-traveled](https://github.com/laggerk24/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/laggerk24/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/laggerk24/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/laggerk24/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2716-prime-subtraction-operation](https://github.com/laggerk24/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/laggerk24/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/laggerk24/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/laggerk24/leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Math
 |  |
@@ -301,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/laggerk24/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/laggerk24/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
