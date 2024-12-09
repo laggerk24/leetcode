@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/laggerk24/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/laggerk24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1333-sort-the-jumbled-numbers](https://github.com/laggerk24/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/laggerk24/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/laggerk24/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/laggerk24/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/laggerk24/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Array
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/laggerk24/leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/laggerk24/leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/laggerk24/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/laggerk24/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/laggerk24/leetcode/tree/master/0221-maximal-square) |
 | [0334-increasing-triplet-subsequence](https://github.com/laggerk24/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/laggerk24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -308,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/laggerk24/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/laggerk24/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/laggerk24/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/laggerk24/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/laggerk24/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
